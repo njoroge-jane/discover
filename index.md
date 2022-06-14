@@ -1,1 +1,1 @@
-App.js
+root: App.js
